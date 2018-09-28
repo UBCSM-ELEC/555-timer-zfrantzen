@@ -1,0 +1,8 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"10nF","Capacitor","C1","RAD-0.3","10nF","1"
+"10uF","Capacitor","C2","RAD-0.3","10uF","1"
+"LED1","Typical RED GaAs LED","D1","LED-1","LED1","1"
+"NE555P","","NE555P","","NE555P","1"
+"Res Semi","1k Resistor","R1, R3","AXIAL-0.5","Res Semi","2"
+"Res Semi_1","10k Resistor","R2","AXIAL-0.5","Res Semi_1","1"
